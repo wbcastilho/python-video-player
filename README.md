@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-v3.8%2B-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AzeemIdrisi/PhoneSploit-Pro?logo=github)
 
-Software utilizado como mini video player sem audio.
+Software utilizado como mini video player sem audio utilizando tkvideoplayer e tkinter.
 
 ## :rocket: Começando
 Ao fazer o clone do projeto será necessário criar e habilitar a virtual env
