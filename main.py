@@ -97,7 +97,6 @@ if __name__ == '__main__':
     # Botão Load
     btLoad = tkinter.Button(frame, text="Browse", width=10, borderwidth=2, background="gray", command=load_video)
     btLoad.grid(row=0, column=0, padx=10, pady=10)
-    # btLoad.pack(padx=10, pady=10, anchor=tkinter.NW)
 
     video_frame = tkinter.Frame(frame, background="gray", width=275, height=140)
     video_frame.grid(row=1)
